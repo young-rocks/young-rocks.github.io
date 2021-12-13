@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# zkMove
 
-You can use the [editor on GitHub](https://github.com/zkmove/zkmove.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In order to improve the scalability of the blockchain, we propose zkMove - a zero-knowledge proof-based smart contract runtime environment that combines Move, the most secure smart contract programming language, with PLONK, a maturing zero-knowledge proof technology, to "Move" computation from on-chain to off-chain, significantly improving the scalability of blockchain while ensuring security.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Excellent programmability
 
-### Markdown
+Currently on Etherum, most Layer2 projects only support single application scenarios and are not programmable. zkMove hopes to combine the programming language virtual machine with zero-knowledge proof cryptography to create a Turing-complete zero-knowledge proof virtual machine that allows smart contracts to be deployed directly through the virtual machine without the need to develop a separate circuit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Security beyond main chain
 
-```markdown
-Syntax highlighted code block
+First, the security of the blockchain is inherited through zero-knowledge proof technology. With zkMove as the foundation, it is easy to build various Layer2 solutions on the main chain, so that users do not have to monitor the network all the time, no one or organization can steal user assets or destroy user state, and users can withdraw assets unconditionally at any time. Secondly, it goes beyond mainchain security with the Move language. zkMove uses Move, a new generation smart contract programming language for digital assets, combined with tools such as formal verification, which can further enhance the security of smart contracts.
 
-# Header 1
-## Header 2
-### Header 3
+#### Cross blockchain
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zkmove/zkmove.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Unlike existing Layer2 solutions, zkMove does not position itself as Layer2 of some public blockchain, but as a cross-blockchain environment for running smart contracts. A smart contract running on zkMove can directly interact with another smart contract running on zkMove, regardless of the underlying blockchain, even if the underlying layer is not blockchain dependent.
