@@ -14,12 +14,9 @@ Unlike existing Layer2 solutions, zkMove does not position itself as Layer2 of s
 
 Detailed description can be found [here](https://github.com/zkmove/zkmove/blob/master/docs/zkMove_project_description_en.pdf) [(中文)](https://github.com/zkmove/zkmove/blob/master/docs/zkMove_project_description_ch.pdf)
 
-## Authors
+## About
 
-- Guangyu Zhu
-
-
-This work is in the initial stages and is sponsored by Westar Labs. We look forward to more developers joinning.
+This project was created by Guangyu Zhu in July 2021. The goal is to improve the programmability of zero-knowledge proof technology. It's still in the initial stage, we look forward to more developers joinning.
 
 ## Contacts
 
