@@ -18,6 +18,8 @@ Detailed description can be found [here](https://github.com/zkmove/zkmove/blob/m
 
 This project was created by Guangyu Zhu in July 2021. The goal is to improve the programmability of zero-knowledge proof technology. It's still in the initial stage, we look forward to more developers joinning.
 
+Westar Labs sponsored this project from the beginning, their help is greatly appreciated!
+
 ## Contacts
 
 Basic information about the project is provided by the developers in the [Discord](https://discord.gg/hCTmEkABHn)
