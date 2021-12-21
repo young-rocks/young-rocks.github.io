@@ -1,3 +1,3 @@
 theme: jekyll-theme-midnight
 title: zkMove
-description: a zero-knowledge proof based smart contract runtime environment
+description: a scalable smart contract runtime environment that combines Move, the most secure programming language, with PLONK, a maturing zero-knowledge proof technology
