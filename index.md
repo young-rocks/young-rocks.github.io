@@ -1,3 +1,5 @@
+zkMove is a scalable smart contract runtime environment that combines the Move programming language with zero-knowledge proof technology.
+
 ### Unlimited scale
 
 Serve as a layer2 execution engine, zkMove can generate zero-knowledge proofs for smart contracts written in Move programming language,  to "Move" computation from on-chain to off-chain, significantly improving the scalability of dApps.
