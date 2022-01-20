@@ -19,13 +19,17 @@ All user transaction data on the blockchain is completely public, which largely 
 
 ## About
 
-This project was created by Guangyu Zhu in July 2021. The goal is to improve the programmability of zero-knowledge proof techniques. It's still in the initial stage, we look forward to more developers joinning, if you are interested, please send a message to guangyuz@gmail.com.
+This project was created by Guangyu Zhu in July 2021. The goal is to improve the programmability of zero-knowledge proof techniques. It's still in the initial stage, we look forward to more developers joinning, if you are interested please contact us.
 
 
 ## Acknowledgements
 
 Westar Labs sponsored this project from the beginning, their help is greatly appreciated!
 
+
+## Contacts
+
+You can contact zkmove at [discord](https://discord.gg/ufMbU8s2n7).
 
 ## License
 
