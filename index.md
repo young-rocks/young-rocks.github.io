@@ -24,7 +24,7 @@ This project was created by Guangyu Zhu in July 2021. The goal is to improve the
 
 ## Acknowledgements
 
-Westar Labs sponsored this project from the beginning, their help is greatly appreciated!
+Westar Labs sponsored this project at the beginning, their help is greatly appreciated!
 
 
 ## Contacts
@@ -34,3 +34,6 @@ You can contact zkmove at [discord](https://discord.gg/ufMbU8s2n7).
 ## License
 
 zkMove is licensed as [Apache 2.0](./LICENSE).
+ 
+ 
+Copyright © zkMove 2021
