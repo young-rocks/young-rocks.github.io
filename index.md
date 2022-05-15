@@ -1,4 +1,8 @@
-
+<p align="center">
+    <img alt="Website" src="https://img.shields.io/website?down_message=offline&label=zkmove.net&up_message=online&url=https%3A%2F%2Fzkmove.net">
+    <a href="https://discord.gg/ufMbU8s2n7"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
+    <a href="https://twitter.com/zkmove"><img src="https://img.shields.io/twitter/follow/zkmove?style=social"/></a>
+</p>
 
 ### Scalability
 
@@ -26,10 +30,6 @@ This project was created by Guangyu Zhu in July 2021. The goal is to improve the
 
 Westar Labs sponsored this project at the beginning, their help is greatly appreciated!
 
-
-## Contacts
-
-You can contact zkmove at [discord](https://discord.gg/ufMbU8s2n7).
 
 ## License
 
